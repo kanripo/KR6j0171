@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 孔雀王經
+#+DATE: 2015-08-30 20:27:11.893070
+#+PROPERTY: JUAN 0
