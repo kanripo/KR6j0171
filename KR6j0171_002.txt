@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:11.707695
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:28
 #+TITLE: 孔雀王呪經
 #+PROPERTY: CBETA_ID T19n0984
 #+PROPERTY: ID KR6j0171
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 984
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0171_T_000-0446b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0171_T_002-0452a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 孔雀王呪經卷下¶
+孔雀王呪經卷下¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
@@ -353,8 +352,7 @@
 波羅木叉那龍王。甘婆羅瑣多勞(慰勞之勞)二龍¶
 王。倚陀弭逃二龍王。難土波難陀二龍王。藹¶
 [?/(冗-几+豕)](昌爾反)多龍王。摩訶修陀里沙那龍王。¶
-波陀羅柯龍王。師子龍王。阿陀里沙那木¶
-珂龍王。波里架多龍王。修木珂龍王。陀羅尼¶
+波陀羅柯龍王。師子龍王。阿陀里沙那木珂龍王。波里架多龍王。修木珂龍王。陀羅尼¶
 陀龍王。雨黑龍王。雨白龍王。青白龍王。雨小¶
 白龍王。¶
 
@@ -756,10 +754,7 @@
 火中　惡鬼即身上火然　畫作鬼像　石¶
 留枝鞭之　惡鬼口中血流¶
 
-:PROPERTIES:
-:head: 壇法
-:END:
-¶
+* 壇法¶
 
 ¶
 ¶
